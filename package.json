@@ -1,0 +1,60 @@
+{
+  "name": "daipay",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.15.4",
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-native-community/netinfo": "^6.0.0",
+    "@react-native-firebase/app": "^11.3.3",
+    "@react-native-firebase/auth": "^11.3.3",
+    "@react-native-firebase/firestore": "^11.4.1",
+    "@react-native-firebase/functions": "^11.3.3",
+    "@react-native-firebase/messaging": "^11.4.1",
+    "@react-native-picker/picker": "^1.15.0",
+    "@react-navigation/native": "^5.9.4",
+    "@react-navigation/stack": "^5.14.4",
+    "axios": "^0.21.1",
+    "lottie-ios": "^3.1.8",
+    "lottie-react-native": "^4.0.2",
+    "react": "17.0.1",
+    "react-native": "0.64.0",
+    "react-native-biometrics": "^2.1.4",
+    "react-native-bootsplash": "^3.2.3",
+    "react-native-camera": "^3.43.6",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-picker-select": "^8.0.4",
+    "react-native-qrcode-scanner": "^1.5.4",
+    "react-native-qrcode-svg": "^6.1.1",
+    "react-native-reanimated": "^2.1.0",
+    "react-native-responsive-fontsize": "^0.5.0",
+    "react-native-responsive-screen": "^1.4.2",
+    "react-native-safe-area-context": "^3.2.0",
+    "react-native-screens": "^3.1.1",
+    "react-native-smooth-pincode-input": "^1.0.9",
+    "react-native-svg": "^12.1.1",
+    "react-native-user-inactivity": "^1.2.0",
+    "react-native-vector-icons": "^8.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/runtime": "^7.12.5",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "babel-jest": "^26.6.3",
+    "eslint": "7.14.0",
+    "jest": "^26.5.0",
+    "metro-react-native-babel-preset": "^0.64.0",
+    "react-test-renderer": "17.0.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
