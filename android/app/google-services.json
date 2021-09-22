@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "121738954507",
+    "firebase_url": "https://daipay.firebaseio.com",
+    "project_id": "daipay",
+    "storage_bucket": "daipay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121738954507:android:605b7fadd9556397c7440e",
+        "android_client_info": {
+          "package_name": "com.daipayapp.daipay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121738954507-drblcp7mfn2cjhkat194lpedpkqpe3lm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daipayapp.daipay",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "121738954507-a2dvsmo6oo9fm6rgu4aih0lkhm738kit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhjcsEVmvrx3_HoDU1JoB4MCTKSO2SyqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121738954507-a2dvsmo6oo9fm6rgu4aih0lkhm738kit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121738954507-87steacnlto6j11fdnckvo8g742ao00u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.customer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121738954507:android:5d25cc55b8606e2bc7440e",
+        "android_client_info": {
+          "package_name": "com.sornchaithedev.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121738954507-bmbk9hkhn021218rabpihjepm79m7v4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sornchaithedev.customer",
+            "certificate_hash": "e868deedd0158aaa12076035f4512b34cb3811a8"
+          }
+        },
+        {
+          "client_id": "121738954507-a2dvsmo6oo9fm6rgu4aih0lkhm738kit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhjcsEVmvrx3_HoDU1JoB4MCTKSO2SyqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121738954507-a2dvsmo6oo9fm6rgu4aih0lkhm738kit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121738954507-87steacnlto6j11fdnckvo8g742ao00u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.customer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121738954507:android:a95fe66b2d658aa5c7440e",
+        "android_client_info": {
+          "package_name": "com.sornchaithedev.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121738954507-hhqm72bldfpjh4qbbr5u8hngt5ladlh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sornchaithedev.merchant",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "121738954507-a2dvsmo6oo9fm6rgu4aih0lkhm738kit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhjcsEVmvrx3_HoDU1JoB4MCTKSO2SyqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121738954507-a2dvsmo6oo9fm6rgu4aih0lkhm738kit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121738954507-87steacnlto6j11fdnckvo8g742ao00u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.customer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
