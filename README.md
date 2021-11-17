@@ -1,5 +1,5 @@
 # ได้เพย์ (Daipay)
-# Stacks :
+# Stacks 
  - React Native 
  - ReactJS
  - Firebase
